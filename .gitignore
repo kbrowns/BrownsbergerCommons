@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Brownsberger.Commons.SystemExtensions/Brownsberger.Commons.SystemExtensions/bin/Debug
+/Brownsberger.Commons.SystemExtensions/Brownsberger.Commons.SystemExtensions/obj/Debug
+/Brownsberger.Commons.SystemExtensions/packages/NUnit.2.6.2
+*.user
+*.suo
+/Brownsberger.Commons.UnitTests/bin/Debug
+/Brownsberger.Commons.UnitTests/obj/Debug
